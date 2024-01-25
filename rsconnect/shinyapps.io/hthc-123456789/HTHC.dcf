@@ -1,0 +1,12 @@
+name: HTHC
+title: HTHC
+username: *******
+account: *******
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: *******
+bundleId: *******
+url: https://hthc-123456789.shinyapps.io/HTHC/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
